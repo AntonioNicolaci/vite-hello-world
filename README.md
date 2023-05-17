@@ -7,6 +7,7 @@ Primo progetto creato interamente con [Vite](https://vitejs.dev/) tramite [Node.
 - #### IDE:
     -[VS Code](https://code.visualstudio.com/).
 - #### Front End: 
+    -[Bootstrap](https://getbootstrap.com/);
     -[Vue](https://vuejs.org/).
 - #### Back End:
     -[Node.js](https://nodejs.org/en); 
