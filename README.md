@@ -1,7 +1,12 @@
-# Vue 3 + Vite
+# 05_17
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Primo progetto con [Vite](https://vitejs.dev/) e [NPM](https://www.npmjs.com/).
 
-## Recommended IDE Setup
+## Setup odierno
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- IDE [VS Code]
+- Front End: 
+    -[Vue](https://vuejs.org/).
+- Gestori:
+    -[Node.js](https://nodejs.org/en) 
+    -[NPM](https://www.npmjs.com/).
