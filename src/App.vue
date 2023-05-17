@@ -1,10 +1,9 @@
 <script setup>
-import appTitle from './components/appTitle.vue';
-// import { bootstrap } from "bootstrap";
+import AppTitle from './components/appTitle.vue'
 </script>
 
 <template>
-  <appTitle/>
+  <AppTitle/>
 </template>
 
 <style scoped>
