@@ -1,12 +1,13 @@
 # 05_17
 
-Primo progetto con [Vite](https://vitejs.dev/) e [NPM](https://www.npmjs.com/).
+Primo progetto creato interamente con [Vite](https://vitejs.dev/) tramite [Node.js](https://nodejs.org/en) e [NPM](https://www.npmjs.com/).
 
 ## Setup odierno
 
-- IDE [VS Code]
-- Front End: 
+- #### IDE:
+    -[VS Code](https://code.visualstudio.com/).
+- #### Front End: 
     -[Vue](https://vuejs.org/).
-- Gestori:
-    -[Node.js](https://nodejs.org/en) 
+- #### Back End:
+    -[Node.js](https://nodejs.org/en); 
     -[NPM](https://www.npmjs.com/).
