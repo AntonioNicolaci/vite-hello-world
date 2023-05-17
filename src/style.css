@@ -64,15 +64,11 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
-.card{
-  background-color: #0077ff;
-  border-bottom: 5px solid blue;
-}
-
 #app {
   width: 100%;
   margin: 0 auto;
   text-align: center;
+  position: relative;
 }
 
 @media (prefers-color-scheme: light) {
